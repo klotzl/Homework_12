@@ -1,0 +1,142 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 12:24:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 12:24:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 12:27:33] "[33mGET /post_by_tag.html?s=qwe HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 12:27:35] "[33mGET /post_form.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 12:27:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 12:27:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 12:27:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 12:27:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 12:27:40] "[33mGET /post_by_tag.html?s=\u043a\u0440\u0430\u0441\u0438\u0432\u044b\u0439 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 12:28:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 12:28:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 18:56:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 18:56:05] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 18:56:10] "[33mGET /post_by_tag.html?s=\u043a\u0440\u0430\u0441\u0438\u0432\u044b\u0439 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 18:56:12] "[33mGET /post_form.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 18:57:34] "[33mGET /post_form.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 18:57:36] "[33mGET /post_form.html HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 19:09:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 19:09:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 19:09:35] "[33mGET /post_by_tag.html?s=\u043a\u0440\u0430\u0441\u0438\u0432\u044b\u0439 HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 19:15:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 19:15:32] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 19:15:35] "[33mGET /post_by_tag.html?s=\u043a\u0440\u0430\u0441\u0438\u0432\u044b\u0439 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 19:15:41] "[33mGET /post_by_tag.html?s=qwe HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 19:15:50] "[33mGET /post_by_tag.html?s=qwe HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 19:18:32] "[33mGET /post_by_tag.html?s=qwe HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 19:18:33] "[33mGET /post_by_tag.html?s=qwe HTTP/1.1[0m" 404 -
+ERROR:app:Exception on /search/ [GET]
+Traceback (most recent call last):
+  File "C:\Users\klotz\PycharmProjects\sky-python\venv1\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\klotz\PycharmProjects\sky-python\venv1\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\klotz\PycharmProjects\sky-python\venv1\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\klotz\PycharmProjects\sky-python\venv1\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\klotz\PycharmProjects\sky-python\Homework\Homework_12\lesson12_project_source_v3\main\views.py", line 16, in search_page
+    search_key = requests.args.get('s', '')
+AttributeError: module 'requests' has no attribute 'args'
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 19:19:49] "[35m[1mGET /search/?s=\u043a\u0440\u0430\u0441\u0438\u0432\u044b\u0439 HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /search/ [GET]
+Traceback (most recent call last):
+  File "C:\Users\klotz\PycharmProjects\sky-python\venv1\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\klotz\PycharmProjects\sky-python\venv1\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\klotz\PycharmProjects\sky-python\venv1\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\klotz\PycharmProjects\sky-python\venv1\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\klotz\PycharmProjects\sky-python\Homework\Homework_12\lesson12_project_source_v3\main\views.py", line 16, in search_page
+    search_key = requests.args.get('s', '')
+AttributeError: module 'requests' has no attribute 'args'
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 19:20:04] "[35m[1mGET /search/?s=%3C\u043a\u0440\u0430\u0441\u0438\u0432\u044b\u0439%3E HTTP/1.1[0m" 500 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+ERROR:app:Exception on /search/ [GET]
+Traceback (most recent call last):
+  File "C:\Users\klotz\PycharmProjects\sky-python\venv1\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\klotz\PycharmProjects\sky-python\venv1\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\klotz\PycharmProjects\sky-python\venv1\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\klotz\PycharmProjects\sky-python\venv1\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\klotz\PycharmProjects\sky-python\Homework\Homework_12\lesson12_project_source_v3\main\views.py", line 15, in search_page
+    logging.info('\u0412\u044b\u043f\u043e\u043b\u043d\u044f\u044e \u043f\u043e\u0438\u0441\u043a')
+NameError: name 'logging' is not defined
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 19:22:00] "[35m[1mGET /search/?s=%3C\u043a\u0440\u0430\u0441\u0438\u0432\u044b\u0439%3E HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 19:22:05] "[33mGET /post_by_tag.html?s=\u043a\u0440\u0430\u0441\u0438\u0432\u044b\u0439 HTTP/1.1[0m" 404 -
+ERROR:app:Exception on /search/ [GET]
+Traceback (most recent call last):
+  File "C:\Users\klotz\PycharmProjects\sky-python\venv1\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\klotz\PycharmProjects\sky-python\venv1\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\klotz\PycharmProjects\sky-python\venv1\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\klotz\PycharmProjects\sky-python\venv1\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\klotz\PycharmProjects\sky-python\Homework\Homework_12\lesson12_project_source_v3\main\views.py", line 15, in search_page
+    logging.info('\u0412\u044b\u043f\u043e\u043b\u043d\u044f\u044e \u043f\u043e\u0438\u0441\u043a')
+NameError: name 'logging' is not defined
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 19:22:36] "[35m[1mGET /search/?s=\u043a\u0440\u0430\u0441\u0438\u0432\u044b\u0439 HTTP/1.1[0m" 500 -
+ERROR:app:Exception on /search/ [GET]
+Traceback (most recent call last):
+  File "C:\Users\klotz\PycharmProjects\sky-python\venv1\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\klotz\PycharmProjects\sky-python\venv1\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\klotz\PycharmProjects\sky-python\venv1\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\klotz\PycharmProjects\sky-python\venv1\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\klotz\PycharmProjects\sky-python\Homework\Homework_12\lesson12_project_source_v3\main\views.py", line 15, in search_page
+    search_key = request.args.get('s', '')
+NameError: name 'logging' is not defined
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 19:23:34] "[35m[1mGET /search/?s=\u043a\u0440\u0430\u0441\u0438\u0432\u044b\u0439 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 19:23:36] "[33mGET /post_by_tag.html?s=\u043a\u0440\u0430\u0441\u0438\u0432\u044b\u0439 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 19:23:38] "[33mGET /post_by_tag.html?s=\u043a\u0440\u0430\u0441\u0438\u0432\u044b\u0439 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 19:23:57] "[33mGET /post_by_tag.html?s=\u043a\u0440\u0430\u0441\u0438\u0432\u044b\u0439 HTTP/1.1[0m" 404 -
+ERROR:app:Exception on /search/ [GET]
+Traceback (most recent call last):
+  File "C:\Users\klotz\PycharmProjects\sky-python\venv1\lib\site-packages\flask\app.py", line 2525, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\Users\klotz\PycharmProjects\sky-python\venv1\lib\site-packages\flask\app.py", line 1822, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\Users\klotz\PycharmProjects\sky-python\venv1\lib\site-packages\flask\app.py", line 1820, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Users\klotz\PycharmProjects\sky-python\venv1\lib\site-packages\flask\app.py", line 1796, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\Users\klotz\PycharmProjects\sky-python\Homework\Homework_12\lesson12_project_source_v3\main\views.py", line 15, in search_page
+    search_key = request.args.get('s', '')
+NameError: name 'logging' is not defined
+INFO:werkzeug:127.0.0.1 - - [31/Oct/2022 19:24:06] "[35m[1mGET /search/?s=\u043a\u0440\u0430\u0441\u0438\u0432\u044b\u0439 HTTP/1.1[0m" 500 -
